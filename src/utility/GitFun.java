@@ -6,5 +6,7 @@ public class GitFun {
 
 
         System.out.println("Everything is fun");
+        
+        // this line is an intentional test edit from Github
     }
 }
